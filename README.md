@@ -1,1 +1,2 @@
-# zedscript-mass-dm
+# ZS - Mass DM
+in - dev.
